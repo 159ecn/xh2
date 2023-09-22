@@ -3,6 +3,10 @@
             "url": "https://www.huichunniao.cn/xh/t.json",
             "name": "🏡小荷线路"
         },
+	{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/159ecn/xh2/main/t.json",
+            "name": "🏡小荷线路备用"
+        },
 		{
             "url": "https://d.kstore.space/download/4679/cally.json",
             "name": "🚀cally线路"
