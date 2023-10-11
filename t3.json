@@ -9,7 +9,7 @@
         },
 		{
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/159ecn/xh2/main/t.json",
-            "name": "🏡小荷线路备用"
+            "name": "🚀小荷线路备用"
         },
 		{
             "url": "http://rihou.vip:88/荷城茶秀",
@@ -52,12 +52,12 @@
             "name": "🚀时光线路"
         },
 		{
-            "url": "http://tvbox.love/4k",
-            "name": "🚀影音天堂"
+            "url": "https://www.huichunniao.cn/vip/4k/t.json",
+            "name": "🚀4k影音天堂"
         },
 		{
             "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/api.json",
-            "name": "🚀4k需阿里云盘扫码"
+            "name": "🚀4k视界-阿里云盘"
         },
 		{
             "url": "https://www.huichunniao.cn/vip/dd/t.json",
@@ -209,12 +209,9 @@
             "name": "🚀吾爱线路"
         },
 		{
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "🚀4k云盘"
-        },
-		{
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         }
+		
     ]
 }
