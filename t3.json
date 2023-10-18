@@ -8,7 +8,7 @@
             "name": "🏡小车线路"
         },
 		{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/159ecn/xh2/main/t.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/159ecn/xh2/main/t.json",
             "name": "🚀小荷线路备用"
         },
 		{
@@ -28,7 +28,7 @@
             "name": "🚀应用多多备用"
         },
 		{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json",
             "name": "🚀拾光趣乐屋"
         },
 		{
@@ -40,7 +40,7 @@
             "name": "🚀业余线路"
         },
 		{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json",
             "name": "🚀业余线路备用"
         },
 		{
@@ -48,7 +48,7 @@
             "name": "🚀月光宝盒"
         },
 		{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json",
             "name": "🚀时光线路"
         },
 		{
@@ -60,8 +60,12 @@
             "name": "🚀影音天堂备用"
         },
 		{
-            "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/sx.json",
+            "url": "https://download.kstore.space/download/4764/sx.json",
             "name": "🚀神仙影视"
+        },
+		{
+            "url": "https://www.huichunniao.cn/vip/sx/t.json",
+            "name": "🚀神仙影视备用"
         },
 		{
             "url": "http://小盒酷玩.fun:66/禁止贩卖",
@@ -132,7 +136,7 @@
             "name": "🚀道长线路"
         },
 		{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
             "name": "🚀香佬线路"
         },
         {
@@ -160,11 +164,11 @@
             "name": "🚀云星线路"
         },
 		{
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云js"
         },
 		{
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀高天流云XYQ"
         },
         {
@@ -205,7 +209,7 @@
             "name": "🚀不良帅线路"
         },
 		{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🚀佰欣园线路"
         }, 
 		{
@@ -217,7 +221,7 @@
             "name": "🚀香雅情线路"
         },
 		{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js.json",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/yydfys/yyfx/main/js.json",
             "name": "🚀猫JS线路"
         },
 		{
@@ -241,7 +245,15 @@
             "name": "🚀码上放生"
         },
 		{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/beiyong.json",
+            "name": "🚀小仙影视"
+        },
+		{
+            "url": "https://codeberg.org/shenxian/sxys/raw/branch/main/sx.json",
+            "name": "🚀小仙影视备用"
+        },
+		{
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         }
 		
