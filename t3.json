@@ -52,7 +52,7 @@
             "name": "🚀神仙影视"
         },
 		{
-            "url": "https://cdn.jsdelivr.net/gh/159ecn/vip@main/sx/t.json",
+            "url": "https://raw.gitmirror.com/159ecn/vip/main/sx/t.json",
             "name": "🚀神仙影视备用"
         },
 		{
@@ -172,8 +172,8 @@
             "name": "🚀高天流云XYQ"
         },
 		{
-            "url": "https://codeberg.org/shenxian/sxys/raw/branch/main/sx.json",
-            "name": "🚀小仙影视备用"
+            "url": "https://raw.gitmirror.com/159ecn/vip/main/ysc/t.json",
+            "name": "🚀大件运输"
         }
 		
     ]
